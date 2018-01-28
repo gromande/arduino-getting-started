@@ -1,0 +1,3 @@
+Syntax coloring for the Telegraph library
+Telegraph	KEYWORD1
+send_message	KEYWORD2
